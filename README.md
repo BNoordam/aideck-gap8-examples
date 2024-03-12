@@ -4,7 +4,9 @@ Check out the [documentation](https://www.bitcraze.io/documentation/repository/a
 for starting guides. 
 
 ## Installing the WiFi video streaming example
-First follow the instructions for setting up the AI deck and its development environment, except for 'Flash WiFi example': https://www.bitcraze.io/documentation/tutorials/getting-started-with-aideck/. A JTAG programmer is needed for setting up the AI deck for the first time.
+First, install docker as instructed here: https://docs.docker.com/engine/install/ubuntu/
+
+Then follow the instructions for setting up the AI deck and its development environment, except for 'Flash WiFi example': https://www.bitcraze.io/documentation/tutorials/getting-started-with-aideck/. A JTAG programmer is needed for setting up the AI deck for the first time.
 
 ```
 sudo apt-get git
